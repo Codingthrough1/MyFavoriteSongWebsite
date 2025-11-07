@@ -1,0 +1,26 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding: 20px;
+  color: #ff4081;
+}
+
+.video-container {
+  margin: 20px auto;
+}
+
+.animated-box {
+  width: 100px;
+  height: 100px;
+  background-color: #00bcd4;
+  margin: 40px auto;
+  border-radius: 12px;
+  position: relative;
+}
